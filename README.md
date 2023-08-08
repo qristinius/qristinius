@@ -48,7 +48,7 @@ When I am not coding, I watch movies and take pictures. Find out more about me &
 ![NumPy](https://img.shields.io/badge/NumPy-6c7a89?&style=for-the-badge&logo=NumPy&logoColor=white)
 ![SymPy](https://img.shields.io/badge/SymPy-3B5526?&style=for-the-badge&logo=SymPy&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Jinja](https://img.shields.io/badge/template%20engine-Jinja-brightgreen)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 
 ### 🧑🏻‍💻 Tools & Platform
 
