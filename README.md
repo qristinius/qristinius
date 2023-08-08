@@ -5,7 +5,7 @@
 
 * 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
 
-* 💻 Currently learning [Pandas](https://pandas.pydata.org/) and [Numpy](https://numpy.org/)
+* 💻 Currently learning [Flask](https://flask.palletsprojects.com/en/2.2.x/) and [SQL](https://www.w3schools.com/sql/default.asp)
 
 
 When I am not coding, I watch movies and take pictures. Find out more about me & feel free to connect with me here:
@@ -15,11 +15,6 @@ When I am not coding, I watch movies and take pictures. Find out more about me &
 <a href="https://www.linkedin.com/in/kristine-dzneladze-a81907230/">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	
-<a href="https://www.facebook.com/profile.php?id=100013187229623">
-	<img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />
-	</a>
- 
 <a href="kristine.dzneladze.1@iliauni.edu.ge">
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>	
