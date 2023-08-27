@@ -25,7 +25,6 @@ When I am not coding, I watch movies and take pictures. Find out more about me &
 ## 📈 Stats
 
 <p align="center">	
-  <img width="48%" src="https://github-readme-statistic.vercel.app/api?username=qristinius&show_icons=true&hide_border=true&theme=radical&include_all_commits=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=qristinius&hide_border=true&theme=radical&count_private=true" />   <br>	
 </p>
 
