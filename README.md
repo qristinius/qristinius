@@ -5,7 +5,7 @@
 
 * 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
 
-* 💻 Currently learning [Different models in Machine Learning] and [SQL](https://www.w3schools.com/sql/default.asp)
+* 💻 Currently learning Different models in Machine Learning and [SQL](https://www.w3schools.com/sql/default.asp)
 
 
 When I am not coding, I watch movies and take pictures. Find out more about me & feel free to connect with me here:
