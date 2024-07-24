@@ -1,7 +1,7 @@
 ### Hey! Great to see you here! 👋
 
 
-* 📖 I study at [Ilia State University](https://iliauni.edu.ge/en/), Faculty of Exact and Natural Sciences, majoring in Physics.
+* 📖 Bachelor's Degree in Physics [Ilia State University](https://iliauni.edu.ge/en/), Faculty of Exact and Natural Sciences.
 
 * 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
 
