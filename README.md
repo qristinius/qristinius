@@ -7,6 +7,8 @@
 
 * 💻 Currently learning Different models in Machine Learning and [SQL](https://www.w3schools.com/sql/default.asp)
 
+* :microscope: I have took part in research about Geometry-Driven Quantum Effects in Group IV and Group III-V Semiconductor Nanostructures.
+
 
 When I am not coding, I watch movies and take pictures. Find out more about me & feel free to connect with me here:
 
@@ -46,6 +48,7 @@ When I am not coding, I watch movies and take pictures. Find out more about me &
 ![SymPy](https://img.shields.io/badge/SymPy-3B5526?&style=for-the-badge&logo=SymPy&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+![SciPy](https://img.shields.io/badge/SciPy-1b2ede?&style=for-the-badge&logo=SciPy&logoColor=white)
 
 ### 🧑🏻‍💻 Tools & Platform
 
