@@ -50,7 +50,7 @@ When I am not coding, I watch movies and take pictures. Find out more about me &
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 ![SciPy](https://img.shields.io/badge/SciPy-1b2ede?&style=for-the-badge&logo=SciPy&logoColor=white)
 
-### 🧑🏻‍💻 Tools & Platform
+### 👩🏻‍💻 Tools & Platform
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -60,9 +60,16 @@ When I am not coding, I watch movies and take pictures. Find out more about me &
 
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
+![DataSpell](https://img.shields.io/badge/DataSpell-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+
+---
 
 ### 💻 Workspace
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
 
 ---
 
